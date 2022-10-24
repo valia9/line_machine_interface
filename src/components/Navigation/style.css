@@ -1,0 +1,23 @@
+.nav-item {
+    flex-grow: 1;
+    padding: 0.5rem 1rem;
+    min-width: 75px;
+    max-width: 75px;
+    min-height: 100%;
+    font-weight: bold;
+    display: block;
+}
+
+.nav-text {
+    margin-top: 0;
+    text-align: center;
+}
+
+.nav-icon {
+    max-height: 20px;
+    display: block;
+    text-align: right;
+    margin-left: 80%;
+    top: 0;
+    color: #84f06c;
+}

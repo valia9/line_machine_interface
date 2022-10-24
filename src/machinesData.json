@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Scale",
+      "icon": "scale.svg",
+      "state": "running"
+    },
+    {
+      "id": 2,
+      "name": "Attacher",
+      "icon": "attacher.svg",
+      "state": "alarm"
+    },
+    {
+        "id": 3,
+        "name": "Packer",
+        "icon": "packer.svg",
+        "state": "running"
+      },
+      {
+        "id": 4,
+        "name": "Closer",
+        "icon": "closer.svg",
+        "state": "warning"
+      }
+]
